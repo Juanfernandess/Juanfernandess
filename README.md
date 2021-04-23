@@ -11,3 +11,5 @@ Adoro promover soluções utilizando a programação!<br/>
 - 💻   Minha stack: HTML, CSS e JavaScript<br/>
 - 📘   Estudando: ReactJS, Node.js, React Native & Typescript<br/>
 - 💬   Sobre mim: Gosto de tecnologias, de pensar em ideias empreendedoras, ver séries e filmes.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
