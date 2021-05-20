@@ -1,7 +1,7 @@
 ## Juan Fernandes
 ### Seja bem vindo 👋
 
-#### Sou um FullStack Developer 💻<br/>
+#### Sou um Front-End Developer 💻<br/>
 Adoro promover soluções utilizando a programação!<br/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Juan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-fernandes-7985a6202/)](https://www.linkedin.com/in/juan-fernandes-7985a6202/)
