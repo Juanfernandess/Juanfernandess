@@ -12,4 +12,4 @@ Adoro promover soluções utilizando a programação!<br/>
 - 📘   Estudando: ReactJS, Node.js, React Native & Typescript<br/>
 - 💬   Sobre mim: Gosto de tecnologias, de pensar em ideias empreendedoras, ver séries e filmes.
 
-![juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanfernandes&show_icons=true&theme=radical)
+![juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanfernandes&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
