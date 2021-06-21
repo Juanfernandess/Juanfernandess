@@ -9,7 +9,7 @@ Adoro promover soluções utilizando a programação!<br/>
 - 🚀   Sempre buscando novos desafios<br/>
 - ✨   Buscando colaborar com projetos desafiadores<br/>
 - 💻   Minha stack: HTML | CSS | JavaScript<br/>
-- 📘   Estudando: ReactJS | Node.js | React Native<br/>
+- 📘 Estudando: Node Js | Mongo DB | React Js | Electron<br/>
 - 💬   Sobre mim: Gosto de tecnologias, de pensar em ideias empreendedoras, ver séries e filmes.
 
 <!-- ![Snake animation](https://github.com/Juanfernandess/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg) -->
