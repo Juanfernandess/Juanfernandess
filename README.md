@@ -4,7 +4,7 @@
 #### Sou uma Developer web 💻<br/>
 Adoro promover soluções utilizando a programação!<br/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Beatriz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-fernandes-7985a6202/)](https://www.linkedin.com/in/juan-fernandes-7985a6202/)
+[![Linkedin Badge](https://img.shields.io/badge/-Beatriz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beatriz-fernandes-7985a6202/)](https://www.linkedin.com/in/juan-fernandes-7985a6202/)
 
 - 🚀   Sempre buscando novos desafios<br/>
 - ✨   Buscando colaborar com projetos desafiadores<br/>
