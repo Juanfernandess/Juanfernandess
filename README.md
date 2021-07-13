@@ -1,4 +1,4 @@
-## Juan Fernandes
+## Beatriz Fernandes
 ### Seja bem vindo 👋
 
 #### Sou um Front-End Developer 💻<br/>
