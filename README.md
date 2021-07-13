@@ -1,7 +1,7 @@
 ## Beatriz Fernandes
 ### Seja bem vindo 👋
 
-#### Sou um Front-End Developer 💻<br/>
+#### Sou uma Developer web 💻<br/>
 Adoro promover soluções utilizando a programação!<br/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Beatriz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-fernandes-7985a6202/)](https://www.linkedin.com/in/juan-fernandes-7985a6202/)
@@ -14,7 +14,7 @@ Adoro promover soluções utilizando a programação!<br/>
 
 <!-- ![Snake animation](https://github.com/Juanfernandess/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg) -->
 
-![juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanfernandes&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+![juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeatrizFernandes&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
