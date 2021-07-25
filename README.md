@@ -8,8 +8,8 @@ Adoro promover soluções utilizando a programação!<br/>
 
 - 🚀   Sempre buscando novos desafios<br/>
 - ✨   Buscando colaborar com projetos desafiadores<br/>
-- 💻   Minha stack: HTML | CSS | Bootstrap | Mongo DB | JavaScript | JQuery | Node.js<br/>
-- 📘 Estudando: React <br/>
+- 💻   Minha stack Developer web: HTML | CSS | Bootstrap | Mongo DB | JavaScript | JQuery | Node.js | React<br/>
+- 💻   Minha stack Designer: Adobe Photoshop | Illustrator | CorelDraw | SonyVegas | Adobe Premiere | Adobe After Effects<br/>
 - 💬   Sobre mim: Gosto de tecnologias, de pensar em ideias empreendedoras, ver séries e filmes.
 
 <!-- ![Snake animation](https://github.com/Juanfernandess/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg) -->
