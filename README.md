@@ -2,7 +2,7 @@
 
 Tenho 19 anos e atualmente estou me especializando em React. <br> 
 Desde criança sempre gostei de mexer em computadores e saber como funciona cada sistema. <br>
-Essa curiosidade se transformou em paixaõ quando encontrei a programação, logo de cara percebi que nasci pra ser uma programadora <br>
+Essa curiosidade se transformou em paixão quando encontrei a programação, logo de cara percebi que nasci pra ser uma programadora <br>
 Estou sempre estudando e buscando conhecimentos na área. <br>
 tenho bons conhecimentos em: Html, Css e JavaScript
 
