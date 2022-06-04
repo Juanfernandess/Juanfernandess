@@ -4,15 +4,22 @@ Tenho 19 anos e atualmente estou me especializando em React. <br>
 Desde criança sempre gostei de mexer em computadores e saber como funciona cada sistema. <br>
 Essa curiosidade se transformou em paixão quando encontrei a programação, logo de cara percebi que nasci pra ser uma programadora <br>
 Estou sempre estudando e buscando conhecimentos na área. <br>
-tenho bons conhecimentos em: Html, Css e JavaScript
+tenho bons conhecimentos em: Html | Css | JavaScript | Photoshop | Illustrator | Corel Draw | Canva | After Effects | Premiere
 
-[![Linkedin Badge](https://img.shields.io/badge/-Beatriz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beatriz-fernandes-7985a6202/)](https://www.linkedin.com/in/Beatriz-fernandes-7985a6202/)
+<h3>linkedin</h3>
+
+[![Linkedin Badge](https://img.shields.io/badge/-Beatriz-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beatriz-fernandes-7985a6202/)](https://www.linkedin.com/in/Beatriz-fernandes-7985a6202/)
+
+<h3>Portifólio Design</h3>
+
+[![Linkedin Badge](https://img.shields.io/badge/-Portifólio-black?style=flat-square&logo=instagram&logoColor=white&link=https://www.linkedin.com/in/beatriz-fernandes-7985a6202/)](https://www.instagram.com/innarniaclub/)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FF6F9C&lines=Beatriz+Fernandes)](https://github.com/BeatrizFernandess)
 
 - 🚀   Sempre buscando novos desafios<br/>
 - ✨   Buscando colaborar com projetos desafiadores<br/>
-- 💻   Minha stack Developer web: HTML | CSS | JavaScript | React<br/>
+- 💻   Minha stack Developer web: Html | Css | JavaScript<br/>
+- 🎨   Design: Photoshop | Illustrator | Corel Draw | Canva | After Effects | Premiere<br/>
 - 💬   Sobre mim: Gosto de tecnologias, de pensar em ideias empreendedoras, ver séries e filmes.
 
 <!-- ![Snake animation](https://github.com/Juanfernandess/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg) -->
