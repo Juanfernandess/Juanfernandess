@@ -12,7 +12,7 @@ tenho bons conhecimentos em: Html | Css | JavaScript | Photoshop | Illustrator |
 
 <h3>Portifólio Design</h3>
 
-[![ Badge](https://img.shields.io/badge/-Portifólio-black?style=flat&logoColor=white&link=https://www.linkedin.com/in/beatriz-fernandes-7985a6202/)](https://beadevbr.github.io/Portifolio/)
+[![ Badge](https://img.shields.io/badge/-Portifólio-black?style=flat&logoColor=white&link=https://www.linkedin.com/in/beatriz-fernandes-7985a6202/)](https://beadevbr.github.io/Portfolio/)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FF6F9C&lines=Beatriz+Fernandes)](https://github.com/BeatrizFernandess)
 
