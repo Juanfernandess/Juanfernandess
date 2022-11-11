@@ -1,10 +1,6 @@
 <h1>Welcome</h1>
 
-Tenho 19 anos e atualmente estou me especializando em React. <br> 
-Desde criança sempre gostei de mexer em computadores e saber como funciona cada sistema. <br>
-Essa curiosidade se transformou em paixão quando encontrei a programação, logo de cara percebi que nasci pra ser uma programadora <br>
-Estou sempre estudando e buscando conhecimentos na área. <br>
-tenho bons conhecimentos em: Html | Css | JavaScript | Photoshop | Illustrator | Corel Draw | Canva | After Effects | Premiere
+
 
 <h3>linkedin</h3>
 
@@ -16,13 +12,16 @@ tenho bons conhecimentos em: Html | Css | JavaScript | Photoshop | Illustrator |
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FF6F9C&lines=Beatriz+Fernandes)](https://github.com/BeatrizFernandess)
 
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 - 🚀   Sempre buscando novos desafios<br/>
 - ✨   Buscando colaborar com projetos desafiadores<br/>
 - 💻   Minha stack Developer web: Html | Css | JavaScript<br/>
 - 🎨   Design: Photoshop | Illustrator | Corel Draw | Canva | After Effects | Premiere<br/>
 - 💬   Sobre mim: Gosto de tecnologias, de pensar em ideias empreendedoras, ver séries e filmes.
 
-<!-- ![Snake animation](https://github.com/Juanfernandess/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg) -->
+
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 <h3>Estatísticas</h3>
 <br>
