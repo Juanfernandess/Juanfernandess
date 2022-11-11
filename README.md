@@ -38,3 +38,5 @@
   <br />
   <code><img width="5%" src="https://cdn-icons-png.flaticon.com/512/5968/5968525.png"></code>
 </p>
+
+![snake gif](https://github.com/beadevbr/beadevbr/blob/output/github-contribution-grid-snake.svg)
