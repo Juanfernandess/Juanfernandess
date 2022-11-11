@@ -16,6 +16,10 @@ tenho bons conhecimentos em: Html | Css | JavaScript | Photoshop | Illustrator |
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FF6F9C&lines=Beatriz+Fernandes)](https://github.com/BeatrizFernandess)
 
+<a href="https://contate.me/beatrizfernandes" target="_blank"
+            >Contrate-me</a
+          >
+
 - 🚀   Sempre buscando novos desafios<br/>
 - ✨   Buscando colaborar com projetos desafiadores<br/>
 - 💻   Minha stack Developer web: Html | Css | JavaScript<br/>
