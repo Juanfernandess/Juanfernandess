@@ -10,15 +10,11 @@ tenho bons conhecimentos em: Html | Css | JavaScript | Photoshop | Illustrator |
 
 [![Linkedin Badge](https://img.shields.io/badge/-Beatriz-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beatriz-fernandes-7985a6202/)](https://www.linkedin.com/in/Beatriz-fernandes-7985a6202/)
 
-<h3>Portifólio Design</h3>
+<h3>Portifólio</h3>
 
 [![ Badge](https://img.shields.io/badge/-Portifólio-black?style=flat&logoColor=white&link=https://www.linkedin.com/in/beatriz-fernandes-7985a6202/)](https://beadevbr.vercel.app/)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FF6F9C&lines=Beatriz+Fernandes)](https://github.com/BeatrizFernandess)
-
-<a href="https://contate.me/beatrizfernandes" target="_blank"
-            >Contrate-me</a
-          >
 
 - 🚀   Sempre buscando novos desafios<br/>
 - ✨   Buscando colaborar com projetos desafiadores<br/>
